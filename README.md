@@ -227,7 +227,7 @@ It helped me understand how frontend interfaces communicate with backend logic a
 
 ### 📫 Connect With Me
 
-* 🔗 LinkedIn: `https://linkedin.com/in/ankitpandey`
+* 🔗 LinkedIn: `https://linkedin.com/in/ankit-kumar-pandey-1308b936b/
 * 💻 GitHub: `https://github.com/ankitpandeyup51/
 
 **Thanks for visiting! 🚀**
@@ -237,20 +237,39 @@ It helped me understand how frontend interfaces communicate with backend logic a
 > # Home
 > <img width="958" height="539" alt="Screenshot 2026-10-01 215256" src="https://github.com/user-attachments/assets/3942c93c-8421-4d7b-910e-b8f37a7ceed3" />
 >
+> # About us
+<img width="945" height="468" alt="Screenshot 2026-10-01 224153" src="https://github.com/user-attachments/assets/0eaa2f96-95a8-4ad3-aaa9-2b8cc7fe58dd" />
+
+# Contact us
+<img width="944" height="469" alt="Screenshot 2026-10-01 224230" src="https://github.com/user-attachments/assets/6f5bee8c-fe91-44e7-ac07-7e5ece37954e" />
+
+# Popular Faq's ?
+<img width="949" height="461" alt="Screenshot 2026-10-01 224307" src="https://github.com/user-attachments/assets/0c2fc737-cbae-459a-bab4-36d8f62b04b7" />
+
+# Register Now 
+<img width="947" height="463" alt="Screenshot 2026-10-01 224339" src="https://github.com/user-attachments/assets/bf4531bb-4ed2-4761-be93-e0cdbb2074f5" />
+
+# Login Now
+<img width="815" height="478" alt="Screenshot 2026-10-01 220206" src="https://github.com/user-attachments/assets/d199e312-2833-4589-a1d2-1b379e0f61c5" />
+
+# My Profile 
+<img width="949" height="469" alt="Screenshot 2026-10-01 224548" src="https://github.com/user-attachments/assets/85894946-1564-4879-80d5-f591d6f0c00e" />
+
 > # Special Offer's
 > <img width="956" height="503" alt="Screenshot 2026-10-01 215415" src="https://github.com/user-attachments/assets/45475bc5-206a-4c4d-be31-8fc3f89a2599" />
 
 > # Our Product's
 > <img width="950" height="491" alt="Screenshot 2026-10-01 215636" src="https://github.com/user-attachments/assets/6d140c9a-b190-481c-b5dd-898c64b97b27" />
 
+# Our Services
+<img width="949" height="463" alt="Screenshot 2026-10-01 223843" src="https://github.com/user-attachments/assets/b4e975df-3452-44b5-82a5-550fdc394b04" />
+
+
 # Add Product Items
 <img width="959" height="494" alt="Screenshot 2026-10-01 220137" src="https://github.com/user-attachments/assets/6b409832-f18e-4215-b9b7-c338ff5ecb30" />
 
 # Order History
 <img width="953" height="505" alt="Screenshot 2026-10-01 220109" src="https://github.com/user-attachments/assets/c4e934dd-3730-4c97-a0e1-e3726afc956a" />
-
-# Login Now
-<img width="815" height="478" alt="Screenshot 2026-10-01 220206" src="https://github.com/user-attachments/assets/d199e312-2833-4589-a1d2-1b379e0f61c5" />
 
 # Footer Section
 <img width="959" height="506" alt="Screenshot 2026-10-01 215542" src="https://github.com/user-attachments/assets/cc8ed57d-1131-49b6-94e4-256476612fd1" />
