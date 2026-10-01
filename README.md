@@ -128,31 +128,6 @@ screenshots/
 ├── cart.png
 └── orders.png
 ```
-
-Example:
-
-### 🏠 Home Page
-
-![Home Page](screenshots/home.png)
-
-### 🔐 Login Page
-
-![Login Page](screenshots/login.png)
-
-### 🛍️ Product Listing
-
-![Product Listing](screenshots/products.png)
-
-### 🛒 Shopping Cart
-
-![Shopping Cart](screenshots/cart.png)
-
-### 📦 Order History
-
-![Order History](screenshots/orders.png)
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
